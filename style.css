@@ -1,0 +1,27 @@
+header{
+  background-color: black;
+  color: white;
+  padding: 50px;
+}
+nav{
+  background-color: dimgray;
+  color: white;
+  padding: 25px
+}
+nav ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+nav li{
+  display: inline-block;
+  margin-right: 15px;
+}
+footer{
+  background-color: none;
+  color: white;
+  text-align: center;
+}
+h1 style{
+  color: B9F1DA;
+}
